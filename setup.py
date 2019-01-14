@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="yall",
-    version="0.0.1",
+    version="0.0.2",
     author="Denis Mingulov",
     author_email="denis@mingulov.com",
     description="Yet Another Lazy Loader for Python",
